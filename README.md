@@ -2,15 +2,4 @@
 
 A simple bank app that registers and logs in a user with a simple homepage
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="342" alt="Screen Shot 2021-09-29 at 4 39 18 PM" src="https://user-images.githubusercontent.com/27390903/135302707-b6c29a94-8ca1-4fee-8349-129a16684b87.png">
